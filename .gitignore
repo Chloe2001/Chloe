@@ -1,0 +1,46 @@
+# specific for this file
+/maven/
+<<<<<<< HEAD
+=======
+
+ 
+>>>>>>> 40474f4228edbf468e48057a63f7b403dced988f
+# Maven
+log/
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+
+
+# NetBeans specific #
+nbproject
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+<<<<<<< HEAD
+*.zip
+=======
+*.zip
+>>>>>>> 40474f4228edbf468e48057a63f7b403dced988f
